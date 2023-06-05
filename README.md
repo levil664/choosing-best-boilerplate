@@ -19,3 +19,16 @@ This example is from Next.js provides basic Redux integration into the applicati
 
 **cons:**
 - Additional Dependencies: When using Redux, as in this example, you will also need to install and configure additional dependencies. This can add complexity to the project setup and increase the size of the project.
+
+### kirill-konshin-next-redux-wrapper:
+[This boilerplate](https://github.com/kirill-konshin/next-redux-wrapper/discussions) offers Redux integration into Next.js using the next-redux-wrapper library. It provides a simple Redux setup and provides usage examples in components Next.js.
+
+**pros:**
+- A very voluminous, heavy template, but this is compensated by the availability of detailed documentation.
+- Very well suited for giant projects.
+- Examples for redux, redux-toolkit and many other demo pages.
+
+**cons:**
+- Difficult to deploy.
+- The file system is difficult to master.
+- Too big for small-sized and medium-sized projects.
