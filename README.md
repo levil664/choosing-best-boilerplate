@@ -1,29 +1,20 @@
-# Redux Toolkit TypeScript Example
+Testing and learning patterns to choose the best.
 
-This example shows how to integrate Next.js with [Redux Toolkit](https://redux-toolkit.js.org).
+The branches in this project are named according to their technologies and project names. For example: [canary-next-redux-boilerplate](https://github.com/levil664/choosing-best-boilerplate/tree/canary-next-redux-boilerplate) is a branch. Where [canary](https://github.com/vercel/next.js/tree/canary) is the boilerplate provided by the development team [Next.js](https://github.com/vercel/next.js). next-redux talks about a bundle of technologies that demonstrates the use of [redux](https://github.com/reduxjs) in conjunction with [Next.js](https://github.com/vercel/next.js) in the project.
 
-The **Redux Toolkit** is a standardized way to write Redux logic (create actions and reducers, setup the store with some default middlewares like redux devtools extension). This example demonstrates each of these features with Next.js
+Here are the main pros and cons of these templates:
 
-## Deploy your own
+canary-next-redux-boilerplate:
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
++
++
++
+-
+-
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-redux&project-name=with-redux&repository-name=with-redux)
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
-```bash
-npx create-next-app --example with-redux with-redux-app
-```
 
-```bash
-yarn create next-app --example with-redux with-redux-app
-```
 
-```bash
-pnpm create next-app --example with-redux with-redux-app
-```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
