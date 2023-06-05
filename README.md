@@ -12,6 +12,7 @@ next-redux talks about a bundle of technologies that demonstrates the use of [re
 - Server rendering: Next.js provides support for server rendering out of the box, and this example shows how to use Redux together with server rendering. This allows you to optimize the performance and improve the SEO of your application.
 - Project Structure: The example suggests a good project structure that divides the code into components, pages, and Redux actions. This helps to keep your code clean and organized.
 - There are a couple of ready-made examples and files for testing.
+- There are examples of thunks, including asynchronous ones.  There are also a lot of comments written for them, thanks to which their work is clear.
 - The deploy is done using the vercel [user interface](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-redux&project-name=with-redux&repository-name=with-redux).
 
 **cons:**
