@@ -8,7 +8,7 @@ next-redux talks about a bundle of technologies that demonstrates the use of [re
 ## Here are the main pros and cons of these templates:
 
 ### canary-next-redux-boilerplate:
-This example is from Next.js provides basic Redux integration into the application Next.js . It includes setting up a Redux store, examples of using Redux in components, and shows how to use server rendering with Redux.
+[This example](https://github.com/vercel/next.js/tree/canary/examples/with-redux) is from Next.js provides basic Redux integration into the application Next.js . It includes setting up a Redux store, examples of using Redux in components, and shows how to use server rendering with Redux.
 
 **pros:**
 - Server rendering: Next.js provides support for server rendering out of the box, and this example shows how to use Redux together with server rendering. This allows you to optimize the performance and improve the SEO of your application.
