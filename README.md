@@ -32,3 +32,17 @@ next-redux talks about a bundle of technologies that demonstrates the use of [re
 - Difficult to deploy.
 - The file system is difficult to master.
 - Too big for small-sized and medium-sized projects.
+
+### nextjs-with-redux-and-material-ui-master:
+[In this example](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui), we will display a counter that is initialized with a value of 0 and will be updated with each click. The first rendering is happening on the server, then the browser takes over. To illustrate this, the rendered counter will have a value of 1 when the app loads and a flag with the dispatch source will be displayed above the counter. From the next clicks that increment / decrement, the counter will receive its new value and the flag with the origin will be updated again with the origin of the dispatch.
+
+**pros:**
+- Uses material-ui, this makes it easier to develop.
+- An easy-to-understand project if you have already been developing with the help of next and react.
+- Has an example of SSR (server site rendering).
+- Has an example of requests with redux.
+
+**cons:**
+- Has no documentation and comments.
+- Project has only js files, don't support ts.
+- Has small pull of examples.
